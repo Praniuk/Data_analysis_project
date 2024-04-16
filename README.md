@@ -20,3 +20,9 @@ Projekt ma na celu pokazanie umiejętności w 4 etapach:
        - Jak wygląda podział na typy umów?
 
 4. Wizualizacja przy pomocy Tableau.
+
+W repozytorium znajdują się następujące pliki:
+- Kod scrapera danych w pythonie
+- Stworzony przez skrypt plik csv ze wszystkimi ogłoszeniami IT z pracuj.pl
+- Pliki SQL z queries których użyłem do czyszczenia jak i przeanalizowania uzyskanych danych
+
