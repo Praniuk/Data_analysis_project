@@ -22,7 +22,8 @@ Projekt ma na celu pokazanie umiejętności w 4 etapach:
 4. Wizualizacja przy pomocy Tableau.
 
 W repozytorium znajdują się następujące pliki:
+- Screeny z queries odpowiadających na zadane wyżej pytania
 - Kod scrapera danych w pythonie
 - Stworzony przez skrypt plik csv ze wszystkimi ogłoszeniami IT z pracuj.pl
-- Pliki SQL z queries których użyłem do czyszczenia jak i przeanalizowania uzyskanych danych
+- Pliki SQL z queries których użyłem osobno do czyszczenia jak i przeanalizowania uzyskanych danych
 
